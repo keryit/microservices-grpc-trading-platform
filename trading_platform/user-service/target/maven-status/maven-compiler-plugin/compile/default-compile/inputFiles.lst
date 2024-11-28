@@ -1,0 +1,15 @@
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/UserServiceApplication.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/advice/ServiceExceptionHandler.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/config/ServerConfiguration.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/entity/PortfolioItem.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/entity/User.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/exceptions/InsufficientBalanceException.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/exceptions/InsufficientSharesException.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/exceptions/UnknownTickerException.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/exceptions/UnknownUserException.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/repository/PortfolioItemRepository.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/repository/UserRepository.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/service/UserService.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/service/request_handler/StockTradeRequestHandler.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/service/request_handler/UserInformationRequestHandler.java
+/Users/kshpilchyna/Documents/projects/microservices_trading/trading_platform/user-service/src/main/java/com/trading/user/util/EntityMessageMapper.java

@@ -47,7 +47,7 @@ This project consists of a Maven multi-module application designed to manage use
 1. Clone the repository.
 2. Build the project using Maven:
    ```bash
-   mvn clean install
+   mvn clean compile
    ```
 3. Start the services in the following order:
    - Stock Service

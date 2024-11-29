@@ -57,11 +57,4 @@ This project consists of a Maven multi-module application designed to manage use
    - Aggregator Service
 4. Access the application via the Aggregator Service's exposed endpoints.
 
-## Future Enhancements
-- Expand database support to include PostgreSQL.
-- Add user authentication and authorization.
-- Introduce additional analytics and reporting capabilities.
-
----
-Feel free to contribute to the project by submitting pull requests or raising issues!
 

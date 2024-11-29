@@ -2,6 +2,8 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=microservices-grpc-trading-platform&color=blue)
 
+![Buy - Sell Shares](media/trading.gif)
+
 This project consists of a Maven multi-module application designed to manage user stock portfolios with real-time price updates using gRPC. It includes the following components:
 
 ## Modules
